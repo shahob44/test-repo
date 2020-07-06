@@ -1,3 +1,1 @@
-edit 2
-edit 3\nedit 4
-edit 5edit 6
+This repository is for practice with merging and other Git commands.
