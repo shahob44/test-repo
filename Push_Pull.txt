@@ -6,3 +6,4 @@ Edit 1.
 
 Commit 2: Push
 
+Commit 3: Pull/Fetch
